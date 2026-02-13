@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Espresso",
+  "base_artist": "Sabrina Carpenter",
+  "createdAt": "2026-02-13T15:13:43.010492Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Black Coffee - The Wideboys Espresso Mix",
+      "artist": "All Saints",
+      "has_synced": false,
+      "path": "select/01_Black_Coffee_-_The_Wideboys_Espresso_Mix_All_Saints.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Espresso (All Jacked Up)",
+      "artist": "TR-i",
+      "has_synced": false,
+      "path": "select/02_Espresso_(All_Jacked_Up)_TR-i.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Espresso (All Jacked Up)",
+      "artist": "TRI",
+      "has_synced": false,
+      "path": "select/03_Espresso_(All_Jacked_Up)_TRI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Espresso Logic",
+      "artist": "Chris Rea",
+      "has_synced": true,
+      "path": "select/04_Espresso_Logic_Chris_Rea.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Big Yellow Taxi - Double Espresso Nrg Mix",
+      "artist": "Joni Mitchell",
+      "has_synced": false,
+      "path": "select/05_Big_Yellow_Taxi_-_Double_Espresso_Nrg_Mix_Joni_Mitchell.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Big Yellow Taxi (Double Espresso Nrg Mix)",
+      "artist": "Joni Mitchell",
+      "has_synced": false,
+      "path": "select/06_Big_Yellow_Taxi_(Double_Espresso_Nrg_Mix)_Joni_Mitchell.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ESPRESSO",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/07_ESPRESSO_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Espresso-Cafe",
+      "artist": "Peter Alexander",
+      "has_synced": false,
+      "path": "select/08_Espresso-Cafe_Peter_Alexander.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Espresso Café",
+      "artist": "Peter Alexander",
+      "has_synced": false,
+      "path": "select/09_Espresso_Café_Peter_Alexander.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Espresso‐Cafe",
+      "artist": "Peter Alexander",
+      "has_synced": true,
+      "path": "select/10_Espresso‐Cafe_Peter_Alexander.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Espresso Cafe",
+      "artist": "Peter Alexander",
+      "has_synced": true,
+      "path": "select/11_Espresso_Cafe_Peter_Alexander.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Liên Khúc: Buổi Sáng Ở CIAO Cafe & Espresso - Live Version",
+      "artist": "Hà Anh Tuấn",
+      "has_synced": true,
+      "path": "select/12_Liên_Khúc__Buổi_Sáng_Ở_CIAO_Cafe_&_Espresso_-_Live_Version_Hà_Anh_Tuấn.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Auf der Espresso-Maschine",
+      "artist": "Franz Josef Degenhardt",
+      "has_synced": true,
+      "path": "select/13_Auf_der_Espresso-Maschine_Franz_Josef_Degenhardt.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ESPRESSO",
+      "artist": "TWICE (트와이스)",
+      "has_synced": true,
+      "path": "select/14_ESPRESSO_TWICE_(트와이스).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "has_synced": false,
+      "path": "select/pl_01_Espresso_Sabrina_Carpenter.txt"
+    }
+  ]
+}
